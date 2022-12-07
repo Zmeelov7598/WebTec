@@ -1,0 +1,15 @@
+.strong {
+    font-weight: bold;
+}
+
+.main_conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.img_Norm {
+    width: 300px;
+    height: 300px;
+}
